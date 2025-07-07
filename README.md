@@ -33,7 +33,7 @@
 
 ## 📄 Резюме
 
-📎 [Посмотреть моё резюме (PDF)](https://raw.githubusercontent.com/shibitovaYU/cv/main/actual%20resume.pdf)
+📎 [Посмотреть моё резюме (PDF)](https://github.com/shibitovaYU/cv/blob/main/actual%20resume.pdf)
 
 
 ## 📬 Контакты
